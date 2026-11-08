@@ -7,7 +7,7 @@ Practice scripts I'm writing while working through DataCamp's OpenAI Agents SDK 
 | File | What it does |
 |------|--------------|
 | `async.py` | Runs a minimal agent with `Runner.run` to check the setup works. |
-| `working.py` | Notes on defining basic and advanced agents. It doesn't run yet because it has syntax errors. |
+| `working.py` | Defines a basic and an advanced agent to show configuration options. It doesn't call the API or print anything. |
 | `weatherassistant.py` | Runs a weather explainer agent with custom instructions and model settings. It has no live data. |
 | `liveWeatherAssistant.py` | Asks which location you want, then looks up its current weather through OpenWeatherMap function tools. |
 
