@@ -1,3 +1,4 @@
 agents-env/
 __pycache__/
 .env
+crm.db
